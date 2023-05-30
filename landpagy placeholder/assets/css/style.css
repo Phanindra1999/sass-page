@@ -4710,7 +4710,7 @@ Banner CSS
 }
 
 .banner-area-3 {
-  background-color: #E6F5FA;
+  background-color: #c2ebeb;
   position: relative;
   z-index: 1;
   overflow: hidden;
@@ -5772,7 +5772,7 @@ CTA CSS
 }
 
 .cta-area-four {
-  background-color: #e6f5fa;
+  background-color: #c2ebeb;
   position: relative;
   overflow: hidden;
   z-index: 1;
@@ -6941,7 +6941,7 @@ Pricing CSS
 }
 
 .pricing-area-two {
-  background-color: #E6F5FA;
+  background-color: #c2ebeb;
   position: relative;
 }
 .pricing-area-two .section-title-center {
@@ -8455,7 +8455,7 @@ Testimonial CSS
 }
 .testimonial-area-six .single-slide {
   padding: 0 53px 60px 60px;
-  background-color: #353d80;
+  background-color: #3b80a6;
   border-radius: 30px;
   margin-top: 162px;
 }
@@ -8898,7 +8898,7 @@ Why-choose CSS
 }
 
 .deal-fast-area {
-  background-color: #E6F5FA;
+  background-color: #c2ebeb;
   overflow: hidden;
 }
 .deal-fast-area .section-title-center {
@@ -9169,7 +9169,7 @@ Why-choose CSS
 }
 
 .bg-burst {
-  background-color: #252C53;
+  background-color: #1e363f;
 }
 
 @keyframes rotated {
